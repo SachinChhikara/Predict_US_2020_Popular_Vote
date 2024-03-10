@@ -44,3 +44,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#raw_data
+data/raw_data/usa_00001.xml
+data/raw_data/usa_00001.dat

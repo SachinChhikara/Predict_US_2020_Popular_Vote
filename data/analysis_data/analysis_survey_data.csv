@@ -1,0 +1,584 @@
+gender,age_group,race,hispanic,inputstate,educ,presvote20post
+Female,18-34,White,No,Wisconsin,4-year,Joe Biden
+Female,18-34,White,No,Florida,4-year,Joe Biden
+Female,18-34,White,No,New York,Post-grad,Joe Biden
+Female,18-34,White,Yes,Missouri,High school graduate,Joe Biden
+Female,35-54,White,No,Pennsylvania,4-year,Donald Trump
+Male,35-54,White,No,Texas,Post-grad,Joe Biden
+Male,65+,White,No,Texas,Post-grad,Joe Biden
+Male,18-34,White,No,Virginia,High school graduate,Donald Trump
+Male,65+,White,No,Washington,2-year,Donald Trump
+Female,65+,White,No,New Hampshire,2-year,Joe Biden
+Female,35-54,Hispanic,Yes,Texas,4-year,Joe Biden
+Male,18-34,White,No,California,4-year,Joe Biden
+Male,35-54,White,No,Wisconsin,4-year,Joe Biden
+Female,65+,White,No,Kentucky,High school graduate,Joe Biden
+Male,65+,White,No,South Dakota,4-year,Joe Biden
+Male,18-34,White,No,California,Post-grad,Joe Biden
+Male,65+,White,No,Texas,Some college,Joe Biden
+Female,18-34,Black,No,California,High school graduate,Joe Biden
+Female,65+,White,No,Tennessee,4-year,Donald Trump
+Female,65+,Hispanic,Yes,Texas,Some college,Donald Trump
+Female,35-54,White,No,Washington,4-year,Donald Trump
+Male,35-54,White,No,Virginia,Post-grad,Joe Biden
+Male,65+,White,No,Texas,4-year,Donald Trump
+Male,65+,White,No,West Virginia,Post-grad,Joe Biden
+Male,65+,White,No,Georgia,Post-grad,Joe Biden
+Male,35-54,White,No,Tennessee,2-year,Donald Trump
+Male,65+,White,No,Washington,Post-grad,Joe Biden
+Male,65+,White,No,California,2-year,Donald Trump
+Male,35-54,White,No,Illinois,Post-grad,Joe Biden
+Female,65+,White,No,California,Post-grad,Joe Biden
+Male,65+,White,No,Arizona,4-year,Donald Trump
+Female,65+,White,No,Illinois,Post-grad,Joe Biden
+Female,65+,White,No,Oregon,Post-grad,Joe Biden
+Male,18-34,White,No,New York,4-year,Joe Biden
+Female,65+,White,No,Nebraska,4-year,Joe Biden
+Female,18-34,Other,Yes,California,4-year,Donald Trump
+Male,35-54,Black,No,Connecticut,High school graduate,Joe Biden
+Male,35-54,Black,No,Indiana,2-year,Joe Biden
+Female,35-54,Other,No,Illinois,2-year,Donald Trump
+Male,35-54,Hispanic,Yes,California,High school graduate,Joe Biden
+Female,35-54,Black,No,Texas,2-year,Joe Biden
+Female,35-54,Other,No,Michigan,2-year,Joe Biden
+Male,35-54,Hispanic,Yes,Texas,High school graduate,Donald Trump
+Male,35-54,Two or more races,No,Nevada,2-year,Joe Biden
+Female,35-54,Black,No,Mississippi,2-year,Joe Biden
+Male,18-34,White,No,California,High school graduate,Donald Trump
+Male,18-34,Hispanic,Yes,Texas,4-year,Joe Biden
+Female,35-54,White,No,Wisconsin,High school graduate,Joe Biden
+Male,65+,White,No,Montana,4-year,Joe Biden
+Female,35-54,White,No,Utah,4-year,Joe Biden
+Female,35-54,White,No,Tennessee,High school graduate,Donald Trump
+Male,18-34,White,No,Minnesota,High school graduate,Joe Biden
+Male,35-54,White,No,Indiana,4-year,Donald Trump
+Male,35-54,Black,No,Florida,4-year,Joe Biden
+Male,35-54,Hispanic,Yes,Maryland,4-year,Joe Biden
+Male,18-34,White,No,Michigan,High school graduate,Joe Biden
+Female,35-54,White,No,New York,High school graduate,Joe Biden
+Male,65+,White,No,Georgia,High school graduate,Donald Trump
+Female,65+,White,No,Georgia,Some college,Donald Trump
+Female,65+,White,No,Oklahoma,High school graduate,Donald Trump
+Female,65+,White,No,California,Some college,Donald Trump
+Female,65+,White,No,Kentucky,High school graduate,Donald Trump
+Female,65+,White,No,Delaware,High school graduate,Donald Trump
+Female,65+,White,No,Utah,Some college,Donald Trump
+Female,65+,White,No,Florida,High school graduate,Joe Biden
+Female,18-34,Hispanic,Yes,California,High school graduate,Joe Biden
+Female,65+,White,No,Washington,Some college,Donald Trump
+Female,65+,White,No,South Carolina,Some college,Donald Trump
+Male,65+,Black,No,South Carolina,2-year,Joe Biden
+Female,65+,White,No,Arizona,2-year,Donald Trump
+Female,65+,White,No,Arkansas,High school graduate,Joe Biden
+Male,65+,White,No,Texas,High school graduate,Donald Trump
+Female,65+,White,No,Washington,Some college,Joe Biden
+Male,35-54,Hispanic,Yes,Illinois,Post-grad,Joe Biden
+Male,18-34,White,No,New York,Some college,Donald Trump
+Male,18-34,White,No,Texas,High school graduate,Joe Biden
+Male,35-54,White,No,Louisiana,High school graduate,Donald Trump
+Male,35-54,White,No,Louisiana,Some college,Joe Biden
+Male,35-54,Black,No,California,Post-grad,Joe Biden
+Male,35-54,Black,No,Michigan,High school graduate,Joe Biden
+Male,35-54,White,No,Texas,High school graduate,Joe Biden
+Male,65+,White,No,Pennsylvania,High school graduate,Donald Trump
+Male,35-54,White,No,Kentucky,2-year,Joe Biden
+Female,65+,White,No,Colorado,High school graduate,Donald Trump
+Male,35-54,White,No,Florida,High school graduate,Donald Trump
+Male,18-34,Hispanic,Yes,South Carolina,2-year,Donald Trump
+Male,35-54,White,Yes,New York,Post-grad,Joe Biden
+Male,35-54,White,No,Kentucky,Some college,Joe Biden
+Female,35-54,Black,No,Pennsylvania,4-year,Donald Trump
+Male,65+,Hispanic,Yes,Massachusetts,Some college,Joe Biden
+Female,35-54,Black,No,Ohio,Some college,Joe Biden
+Male,65+,Other,No,Minnesota,Some college,Donald Trump
+Female,35-54,Hispanic,Yes,Michigan,Some college,Donald Trump
+Female,18-34,White,Yes,Indiana,4-year,Joe Biden
+Male,35-54,Hispanic,Yes,Ohio,Some college,Joe Biden
+Female,18-34,White,No,Michigan,4-year,Joe Biden
+Female,65+,White,No,Wisconsin,High school graduate,Donald Trump
+Male,35-54,White,No,Alaska,4-year,Donald Trump
+Female,35-54,White,No,Michigan,Some college,Joe Biden
+Female,35-54,White,No,Michigan,Some college,Joe Biden
+Male,18-34,White,No,California,High school graduate,Joe Biden
+Male,65+,White,No,Arizona,High school graduate,Donald Trump
+Female,35-54,White,No,Michigan,4-year,Joe Biden
+Female,65+,White,No,Minnesota,4-year,Joe Biden
+Male,35-54,White,No,Colorado,Some college,Donald Trump
+Male,65+,White,No,Arizona,High school graduate,Donald Trump
+Female,65+,White,No,Minnesota,4-year,Donald Trump
+Female,65+,White,No,Wisconsin,High school graduate,Donald Trump
+Female,65+,White,No,Florida,Some college,Donald Trump
+Male,35-54,Black,No,South Carolina,High school graduate,Joe Biden
+Female,18-34,Black,No,Georgia,No HS,Donald Trump
+Female,35-54,White,No,New Jersey,Post-grad,Joe Biden
+Male,35-54,White,Yes,New York,High school graduate,Donald Trump
+Female,18-34,White,No,Alabama,4-year,Donald Trump
+Male,35-54,White,No,Maine,High school graduate,Donald Trump
+Female,18-34,Hispanic,Yes,New York,4-year,Joe Biden
+Female,18-34,Black,No,Texas,Post-grad,Joe Biden
+Male,35-54,White,No,California,4-year,Joe Biden
+Male,18-34,White,No,Texas,4-year,Joe Biden
+Female,35-54,White,No,Texas,4-year,Joe Biden
+Female,35-54,White,No,North Carolina,Post-grad,Joe Biden
+Female,35-54,White,No,New Jersey,4-year,Joe Biden
+Female,18-34,White,No,Arkansas,4-year,Joe Biden
+Male,35-54,White,No,Pennsylvania,High school graduate,Joe Biden
+Male,65+,White,No,New York,High school graduate,Joe Biden
+Male,18-34,White,No,Kentucky,4-year,Donald Trump
+Male,65+,White,No,Kentucky,High school graduate,Joe Biden
+Female,18-34,White,No,California,Post-grad,Joe Biden
+Female,35-54,Black,No,New York,No HS,Joe Biden
+Female,18-34,Two or more races,No,Utah,Some college,Donald Trump
+Female,65+,Black,No,Florida,High school graduate,Joe Biden
+Female,18-34,Black,No,Nebraska,2-year,Donald Trump
+Female,65+,Hispanic,Yes,Texas,High school graduate,Joe Biden
+Female,65+,Black,No,Missouri,High school graduate,Joe Biden
+Female,65+,Hispanic,Yes,Florida,High school graduate,Donald Trump
+Female,18-34,White,No,Utah,Some college,Joe Biden
+Male,18-34,Hispanic,Yes,California,Some college,Joe Biden
+Female,35-54,White,No,Washington,High school graduate,Joe Biden
+Male,65+,White,Yes,California,High school graduate,Donald Trump
+Male,18-34,White,No,Texas,2-year,Joe Biden
+Female,18-34,White,No,Connecticut,Some college,Joe Biden
+Female,65+,White,No,Ohio,High school graduate,Joe Biden
+Female,65+,White,No,Tennessee,High school graduate,Joe Biden
+Male,65+,White,No,Indiana,Some college,Joe Biden
+Male,65+,White,No,Florida,High school graduate,Donald Trump
+Female,65+,White,No,Maine,High school graduate,Donald Trump
+Male,65+,White,No,New Mexico,Some college,Donald Trump
+Male,65+,White,No,Indiana,High school graduate,Donald Trump
+Male,65+,White,No,Ohio,Some college,Donald Trump
+Female,65+,White,No,Tennessee,High school graduate,Donald Trump
+Female,65+,White,No,Georgia,High school graduate,Donald Trump
+Male,65+,White,No,Arizona,2-year,Joe Biden
+Male,65+,White,No,Idaho,High school graduate,Donald Trump
+Male,65+,White,No,Nevada,Some college,Joe Biden
+Male,65+,White,No,Kentucky,High school graduate,Donald Trump
+Female,65+,White,No,California,High school graduate,Donald Trump
+Male,65+,White,No,Montana,High school graduate,Joe Biden
+Male,65+,White,No,Arizona,Some college,Donald Trump
+Male,65+,White,No,Pennsylvania,High school graduate,Joe Biden
+Male,65+,White,No,Utah,2-year,Donald Trump
+Female,35-54,White,No,Georgia,High school graduate,Donald Trump
+Male,65+,White,No,Washington,2-year,Donald Trump
+Female,65+,White,No,Indiana,High school graduate,Joe Biden
+Male,65+,White,No,California,Some college,Donald Trump
+Male,65+,White,No,Missouri,2-year,Donald Trump
+Male,65+,White,No,Maryland,2-year,Joe Biden
+Female,65+,Black,No,Virginia,High school graduate,Joe Biden
+Female,35-54,Black,No,Virginia,4-year,Donald Trump
+Female,18-34,Two or more races,No,South Carolina,Post-grad,Joe Biden
+Male,65+,White,No,Texas,Some college,Donald Trump
+Female,35-54,Black,No,Wisconsin,Some college,Joe Biden
+Female,35-54,Two or more races,No,Ohio,Some college,Joe Biden
+Female,35-54,Black,No,Alabama,2-year,Joe Biden
+Female,18-34,Asian,Yes,California,Post-grad,Joe Biden
+Female,35-54,Hispanic,Yes,California,Post-grad,Donald Trump
+Male,35-54,Hispanic,Yes,Texas,High school graduate,Donald Trump
+Female,18-34,White,No,Missouri,2-year,Joe Biden
+Female,18-34,White,No,New York,2-year,Joe Biden
+Male,18-34,Hispanic,Yes,New Jersey,High school graduate,Donald Trump
+Male,18-34,White,No,Texas,High school graduate,Joe Biden
+Male,65+,White,No,Ohio,Post-grad,Joe Biden
+Female,35-54,White,No,Indiana,2-year,Joe Biden
+Male,35-54,Black,No,Georgia,High school graduate,Joe Biden
+Female,18-34,Hispanic,Yes,Virginia,4-year,Joe Biden
+Male,35-54,White,No,New York,Post-grad,Joe Biden
+Female,35-54,White,No,Florida,2-year,Donald Trump
+Male,18-34,White,No,California,4-year,Joe Biden
+Male,35-54,Black,No,Louisiana,Some college,Joe Biden
+Female,35-54,White,No,California,4-year,Joe Biden
+Male,35-54,White,No,Ohio,Some college,Joe Biden
+Female,18-34,White,No,South Carolina,High school graduate,Donald Trump
+Male,18-34,White,No,New York,Some college,Joe Biden
+Male,35-54,White,No,Maryland,4-year,Donald Trump
+Female,18-34,Black,No,California,Post-grad,Donald Trump
+Female,35-54,Hispanic,Yes,North Carolina,4-year,Joe Biden
+Female,18-34,White,No,Illinois,4-year,Donald Trump
+Male,35-54,White,No,New York,4-year,Donald Trump
+Female,35-54,White,No,New York,4-year,Joe Biden
+Male,18-34,White,Yes,New York,Some college,Joe Biden
+Female,35-54,White,No,New York,4-year,Joe Biden
+Male,18-34,White,No,Massachusetts,High school graduate,Donald Trump
+Male,35-54,White,No,Ohio,4-year,Joe Biden
+Female,35-54,White,No,Massachusetts,4-year,Joe Biden
+Male,18-34,White,No,Pennsylvania,2-year,Joe Biden
+Female,65+,Black,No,District of Columbia,Some college,Joe Biden
+Female,18-34,Black,No,Texas,Post-grad,Joe Biden
+Female,65+,Black,No,Arizona,Post-grad,Joe Biden
+Female,65+,Black,No,Mississippi,Some college,Joe Biden
+Female,65+,Black,No,South Carolina,Some college,Joe Biden
+Female,65+,Black,No,Ohio,4-year,Joe Biden
+Male,18-34,Asian,No,New Jersey,Some college,Joe Biden
+Male,35-54,White,No,California,High school graduate,Joe Biden
+Male,35-54,Hispanic,Yes,New York,High school graduate,Joe Biden
+Male,18-34,Other,No,Arizona,Some college,Donald Trump
+Male,35-54,White,No,Michigan,Some college,Joe Biden
+Female,35-54,White,No,Minnesota,Post-grad,Joe Biden
+Female,65+,White,No,Michigan,High school graduate,Joe Biden
+Male,65+,White,No,Washington,Post-grad,Joe Biden
+Female,65+,White,No,Texas,4-year,Joe Biden
+Female,65+,Hispanic,Yes,Texas,No HS,Donald Trump
+Male,18-34,White,No,Virginia,High school graduate,Joe Biden
+Female,65+,White,No,Florida,4-year,Joe Biden
+Male,65+,White,No,Missouri,4-year,Donald Trump
+Female,65+,White,No,North Carolina,4-year,Joe Biden
+Male,65+,White,No,Oregon,4-year,Joe Biden
+Male,35-54,White,No,Texas,High school graduate,Donald Trump
+Female,65+,White,No,New Mexico,Post-grad,Joe Biden
+Male,65+,White,No,California,Post-grad,Joe Biden
+Male,65+,White,No,North Carolina,Post-grad,Donald Trump
+Male,65+,White,No,Oregon,4-year,Joe Biden
+Male,65+,White,No,Florida,Post-grad,Joe Biden
+Female,65+,White,No,Tennessee,High school graduate,Joe Biden
+Male,65+,White,No,Minnesota,4-year,Donald Trump
+Male,65+,White,No,California,Post-grad,Joe Biden
+Male,35-54,White,No,Kentucky,No HS,Joe Biden
+Male,65+,White,No,Colorado,Post-grad,Donald Trump
+Male,65+,White,No,Tennessee,Post-grad,Joe Biden
+Male,65+,White,No,Colorado,Post-grad,Joe Biden
+Female,65+,White,No,North Carolina,4-year,Joe Biden
+Male,65+,White,No,Washington,4-year,Donald Trump
+Male,65+,White,No,South Carolina,4-year,Donald Trump
+Female,65+,White,No,California,4-year,Joe Biden
+Female,65+,White,No,Florida,High school graduate,Donald Trump
+Male,65+,White,No,Texas,4-year,Donald Trump
+Male,65+,White,No,Maryland,Post-grad,Joe Biden
+Female,65+,White,Yes,California,High school graduate,Donald Trump
+Female,65+,White,No,Virginia,High school graduate,Joe Biden
+Female,65+,White,No,Missouri,High school graduate,Joe Biden
+Male,35-54,White,No,Oklahoma,High school graduate,Donald Trump
+Male,65+,White,No,Minnesota,4-year,Donald Trump
+Male,65+,White,No,Texas,Post-grad,Joe Biden
+Female,35-54,Black,No,Pennsylvania,Some college,Joe Biden
+Male,65+,Hispanic,Yes,California,High school graduate,Donald Trump
+Male,35-54,Hispanic,Yes,New York,High school graduate,Joe Biden
+Female,35-54,Black,No,Ohio,2-year,Joe Biden
+Male,65+,Other,No,California,4-year,Donald Trump
+Female,65+,White,No,Washington,2-year,Joe Biden
+Male,18-34,White,No,California,High school graduate,Joe Biden
+Male,35-54,White,No,California,Some college,Joe Biden
+Female,35-54,White,No,Oregon,2-year,Joe Biden
+Male,18-34,White,No,California,Some college,Donald Trump
+Female,35-54,White,No,Rhode Island,Some college,Joe Biden
+Female,35-54,White,No,Virginia,High school graduate,Donald Trump
+Male,35-54,White,No,New York,Some college,Donald Trump
+Female,35-54,White,No,Texas,Some college,Donald Trump
+Female,18-34,White,No,New Jersey,Some college,Joe Biden
+Female,18-34,White,No,Missouri,Some college,Joe Biden
+Female,35-54,White,No,Montana,Some college,Donald Trump
+Male,18-34,Hispanic,Yes,Texas,4-year,Joe Biden
+Female,35-54,Black,No,Georgia,High school graduate,Joe Biden
+Female,18-34,Black,No,Florida,High school graduate,Joe Biden
+Male,18-34,White,No,Michigan,High school graduate,Donald Trump
+Male,35-54,White,No,New York,High school graduate,Joe Biden
+Male,35-54,White,No,New Jersey,Some college,Joe Biden
+Male,18-34,Other,No,New York,High school graduate,Joe Biden
+Male,18-34,White,No,Georgia,4-year,Joe Biden
+Female,18-34,White,No,Florida,High school graduate,Joe Biden
+Female,18-34,White,No,New Jersey,4-year,Joe Biden
+Female,18-34,White,No,Hawaii,4-year,Joe Biden
+Female,35-54,White,No,North Carolina,4-year,Joe Biden
+Male,35-54,Hispanic,Yes,Wisconsin,High school graduate,Joe Biden
+Male,35-54,Asian,No,California,Post-grad,Joe Biden
+Male,18-34,Native American,No,New York,2-year,Joe Biden
+Female,18-34,White,No,New Hampshire,High school graduate,Donald Trump
+Male,18-34,Hispanic,Yes,Texas,2-year,Donald Trump
+Male,35-54,Two or more races,Yes,Colorado,High school graduate,Donald Trump
+Male,18-34,Hispanic,Yes,California,2-year,Joe Biden
+Male,35-54,White,No,Michigan,Some college,Donald Trump
+Male,35-54,White,No,Illinois,2-year,Joe Biden
+Male,18-34,White,No,New Jersey,Some college,Joe Biden
+Female,65+,White,No,Vermont,Some college,Joe Biden
+Male,35-54,White,No,Indiana,Some college,Joe Biden
+Female,35-54,White,No,Ohio,2-year,Joe Biden
+Male,35-54,White,No,New York,Some college,Donald Trump
+Male,35-54,White,No,Illinois,Some college,Joe Biden
+Female,35-54,White,No,Connecticut,2-year,Joe Biden
+Female,35-54,Hispanic,Yes,California,4-year,Joe Biden
+Female,35-54,Asian,No,Michigan,4-year,Joe Biden
+Male,18-34,White,No,California,4-year,Joe Biden
+Male,35-54,White,No,Illinois,4-year,Joe Biden
+Male,18-34,White,No,Missouri,4-year,Joe Biden
+Female,35-54,White,No,Ohio,4-year,Donald Trump
+Female,35-54,White,No,California,4-year,Joe Biden
+Female,35-54,White,No,Washington,4-year,Joe Biden
+Female,35-54,Asian,No,California,Post-grad,Joe Biden
+Male,35-54,White,No,Florida,Post-grad,Joe Biden
+Male,18-34,Middle Eastern,No,Illinois,4-year,Joe Biden
+Male,18-34,White,Yes,Texas,No HS,Joe Biden
+Male,18-34,White,Yes,Alabama,4-year,Joe Biden
+Male,18-34,Other,No,Colorado,Post-grad,Joe Biden
+Male,35-54,White,No,Michigan,4-year,Donald Trump
+Female,18-34,Native American,No,California,4-year,Joe Biden
+Female,18-34,White,No,Indiana,4-year,Donald Trump
+Male,18-34,White,No,Illinois,Post-grad,Donald Trump
+Male,35-54,White,No,Colorado,4-year,Joe Biden
+Male,35-54,White,No,Oklahoma,Post-grad,Joe Biden
+Male,18-34,White,No,California,Post-grad,Joe Biden
+Male,35-54,White,No,Florida,4-year,Joe Biden
+Female,18-34,White,No,California,Post-grad,Joe Biden
+Female,35-54,White,No,Michigan,4-year,Donald Trump
+Male,35-54,White,No,Florida,Post-grad,Donald Trump
+Female,18-34,Black,No,Texas,Some college,Joe Biden
+Female,18-34,Black,No,Texas,Some college,Joe Biden
+Female,35-54,Hispanic,Yes,Florida,High school graduate,Joe Biden
+Female,65+,Two or more races,No,Arkansas,High school graduate,Donald Trump
+Female,65+,Black,No,North Carolina,High school graduate,Joe Biden
+Female,35-54,Hispanic,Yes,Florida,High school graduate,Joe Biden
+Female,65+,Hispanic,Yes,Florida,High school graduate,Joe Biden
+Female,18-34,Black,No,California,2-year,Donald Trump
+Male,35-54,Hispanic,Yes,Oklahoma,Some college,Joe Biden
+Female,65+,White,No,Washington,Some college,Joe Biden
+Female,65+,White,No,Pennsylvania,High school graduate,Joe Biden
+Female,65+,White,No,Tennessee,High school graduate,Joe Biden
+Female,65+,White,No,Ohio,High school graduate,Joe Biden
+Female,35-54,White,No,Arizona,High school graduate,Donald Trump
+Female,65+,White,No,Georgia,High school graduate,Joe Biden
+Female,65+,White,No,Massachusetts,High school graduate,Joe Biden
+Female,65+,White,No,Mississippi,High school graduate,Donald Trump
+Female,65+,White,No,Pennsylvania,High school graduate,Joe Biden
+Male,65+,White,No,Texas,No HS,Donald Trump
+Male,65+,White,No,Pennsylvania,High school graduate,Joe Biden
+Male,35-54,White,No,Nebraska,High school graduate,Joe Biden
+Female,35-54,White,No,Louisiana,High school graduate,Donald Trump
+Female,65+,White,No,Texas,2-year,Donald Trump
+Female,65+,White,No,New York,Some college,Joe Biden
+Female,65+,White,No,Delaware,High school graduate,Donald Trump
+Female,65+,White,No,Illinois,2-year,Joe Biden
+Female,65+,White,No,Maryland,High school graduate,Donald Trump
+Female,65+,White,No,Virginia,No HS,Donald Trump
+Female,65+,White,No,Nevada,2-year,Joe Biden
+Male,65+,White,No,Ohio,High school graduate,Joe Biden
+Female,65+,White,No,California,Some college,Joe Biden
+Female,18-34,White,No,Georgia,High school graduate,Donald Trump
+Male,65+,White,No,Missouri,High school graduate,Joe Biden
+Male,65+,White,No,Tennessee,High school graduate,Donald Trump
+Male,65+,White,No,Nevada,High school graduate,Donald Trump
+Male,65+,White,No,Maryland,High school graduate,Donald Trump
+Female,65+,White,No,Colorado,Some college,Joe Biden
+Female,65+,White,No,Wisconsin,Some college,Joe Biden
+Female,65+,White,Yes,New York,2-year,Donald Trump
+Female,65+,White,No,Georgia,Some college,Donald Trump
+Female,18-34,White,No,Georgia,Some college,Donald Trump
+Female,65+,White,No,Louisiana,Some college,Donald Trump
+Male,35-54,Hispanic,Yes,New York,High school graduate,Joe Biden
+Female,65+,White,No,Minnesota,High school graduate,Joe Biden
+Female,65+,White,No,Louisiana,Some college,Donald Trump
+Female,65+,White,No,Missouri,High school graduate,Donald Trump
+Female,65+,White,No,Oklahoma,High school graduate,Donald Trump
+Female,65+,White,No,Florida,2-year,Joe Biden
+Female,65+,White,No,Indiana,High school graduate,Donald Trump
+Female,65+,Native American,No,Texas,No HS,Donald Trump
+Male,65+,White,No,Minnesota,High school graduate,Donald Trump
+Female,65+,White,No,Arizona,Some college,Joe Biden
+Female,65+,White,No,Virginia,No HS,Donald Trump
+Female,65+,White,No,Alabama,Some college,Donald Trump
+Female,65+,White,No,Massachusetts,2-year,Joe Biden
+Female,18-34,White,No,Washington,No HS,Joe Biden
+Male,35-54,White,No,Missouri,4-year,Joe Biden
+Female,65+,Hispanic,Yes,Texas,High school graduate,Joe Biden
+Male,18-34,Middle Eastern,No,New York,4-year,Joe Biden
+Male,35-54,Asian,No,California,4-year,Donald Trump
+Male,35-54,Hispanic,Yes,California,4-year,Joe Biden
+Male,35-54,Black,No,New Mexico,4-year,Joe Biden
+Male,18-34,Black,No,New Jersey,Some college,Joe Biden
+Female,35-54,Asian,No,Wisconsin,4-year,Joe Biden
+Female,35-54,Black,No,Indiana,4-year,Joe Biden
+Male,18-34,Native American,No,Texas,Post-grad,Joe Biden
+Male,18-34,Hispanic,Yes,Florida,Post-grad,Donald Trump
+Female,35-54,Native American,Yes,Virginia,Post-grad,Joe Biden
+Female,18-34,Hispanic,Yes,Florida,4-year,Joe Biden
+Female,35-54,White,No,Arizona,Post-grad,Joe Biden
+Female,35-54,White,No,North Carolina,Post-grad,Joe Biden
+Male,18-34,White,No,Washington,Some college,Joe Biden
+Male,35-54,White,No,New Hampshire,Some college,Joe Biden
+Female,18-34,White,No,Missouri,Post-grad,Joe Biden
+Female,35-54,White,No,Iowa,Some college,Joe Biden
+Female,35-54,White,No,Ohio,Post-grad,Joe Biden
+Female,35-54,White,No,Minnesota,High school graduate,Joe Biden
+Male,35-54,White,No,North Carolina,High school graduate,Joe Biden
+Female,35-54,White,No,Maryland,Some college,Joe Biden
+Female,35-54,White,No,Michigan,2-year,Joe Biden
+Male,35-54,White,No,Texas,2-year,Donald Trump
+Female,18-34,White,No,Connecticut,Post-grad,Joe Biden
+Female,35-54,White,No,Vermont,Some college,Joe Biden
+Female,18-34,White,No,Michigan,2-year,Donald Trump
+Female,18-34,White,No,Wisconsin,Post-grad,Joe Biden
+Female,35-54,Hispanic,Yes,Texas,2-year,Donald Trump
+Male,18-34,White,No,Georgia,No HS,Donald Trump
+Male,35-54,White,No,New York,Post-grad,Donald Trump
+Male,35-54,White,No,Ohio,Post-grad,Joe Biden
+Female,35-54,White,No,Florida,2-year,Joe Biden
+Male,35-54,White,No,Utah,Post-grad,Joe Biden
+Female,35-54,White,No,Indiana,High school graduate,Donald Trump
+Male,35-54,White,No,California,High school graduate,Joe Biden
+Female,35-54,White,No,New York,Post-grad,Joe Biden
+Female,35-54,White,No,Pennsylvania,2-year,Donald Trump
+Male,35-54,White,No,Connecticut,Post-grad,Joe Biden
+Female,35-54,White,No,New Jersey,Post-grad,Donald Trump
+Female,65+,Hispanic,Yes,Texas,High school graduate,Donald Trump
+Male,18-34,Hispanic,Yes,Florida,High school graduate,Donald Trump
+Male,35-54,Black,No,Virginia,High school graduate,Joe Biden
+Male,18-34,Black,No,Alaska,High school graduate,Donald Trump
+Male,18-34,Asian,No,Colorado,4-year,Joe Biden
+Male,18-34,Hispanic,Yes,Oregon,High school graduate,Joe Biden
+Male,35-54,Two or more races,Yes,New York,4-year,Joe Biden
+Male,35-54,Hispanic,Yes,Wisconsin,High school graduate,Joe Biden
+Male,65+,Black,No,Alabama,High school graduate,Joe Biden
+Male,65+,Hispanic,Yes,Texas,High school graduate,Donald Trump
+Male,35-54,Black,No,Alabama,High school graduate,Joe Biden
+Male,65+,Hispanic,Yes,Georgia,4-year,Donald Trump
+Male,65+,Black,No,California,High school graduate,Joe Biden
+Male,65+,Black,No,Louisiana,High school graduate,Joe Biden
+Male,18-34,White,No,Ohio,4-year,Joe Biden
+Male,18-34,White,No,New York,High school graduate,Joe Biden
+Female,35-54,White,No,Florida,4-year,Joe Biden
+Female,35-54,White,No,Colorado,4-year,Joe Biden
+Female,18-34,White,No,Delaware,4-year,Joe Biden
+Female,35-54,White,No,Ohio,4-year,Joe Biden
+Female,35-54,White,No,California,4-year,Joe Biden
+Female,18-34,White,No,Massachusetts,4-year,Joe Biden
+Female,35-54,White,No,Washington,4-year,Joe Biden
+Female,35-54,White,No,California,4-year,Donald Trump
+Male,18-34,White,No,New York,4-year,Donald Trump
+Female,35-54,Hispanic,Yes,Massachusetts,High school graduate,Joe Biden
+Male,18-34,Hispanic,Yes,California,2-year,Donald Trump
+Female,65+,White,No,Nevada,4-year,Joe Biden
+Male,35-54,White,No,Florida,4-year,Donald Trump
+Female,35-54,White,No,West Virginia,2-year,Donald Trump
+Male,65+,White,No,Arizona,Some college,Donald Trump
+Female,65+,White,No,Texas,4-year,Joe Biden
+Female,65+,White,No,Tennessee,4-year,Donald Trump
+Male,65+,White,No,Indiana,Some college,Joe Biden
+Female,65+,White,No,Ohio,4-year,Joe Biden
+Female,35-54,White,No,Oregon,Some college,Joe Biden
+Female,65+,White,No,Arizona,4-year,Donald Trump
+Male,65+,White,No,Illinois,2-year,Donald Trump
+Male,18-34,White,No,Wisconsin,High school graduate,Donald Trump
+Male,18-34,Hispanic,Yes,Arizona,High school graduate,Joe Biden
+Male,18-34,Black,No,California,High school graduate,Donald Trump
+Female,18-34,Black,No,California,4-year,Joe Biden
+Female,18-34,Hispanic,Yes,Illinois,High school graduate,Joe Biden
+Female,35-54,Black,No,North Dakota,4-year,Joe Biden
+Male,18-34,Black,No,Texas,Post-grad,Joe Biden
+Female,35-54,Black,No,New Jersey,High school graduate,Donald Trump
+Male,35-54,White,No,California,Post-grad,Donald Trump
+Male,35-54,White,No,Illinois,Post-grad,Joe Biden
+Female,35-54,White,No,Maryland,Post-grad,Joe Biden
+Female,35-54,White,No,New York,Post-grad,Joe Biden
+Male,18-34,White,No,New York,Post-grad,Donald Trump
+Male,18-34,White,No,West Virginia,Post-grad,Donald Trump
+Male,18-34,White,No,Florida,Post-grad,Donald Trump
+Female,35-54,White,Yes,Florida,High school graduate,Donald Trump
+Female,35-54,Asian,No,Virginia,Post-grad,Joe Biden
+Female,18-34,Hispanic,Yes,New York,4-year,Joe Biden
+Female,18-34,White,No,Florida,4-year,Joe Biden
+Male,18-34,White,No,Texas,High school graduate,Donald Trump
+Male,65+,White,No,Georgia,4-year,Donald Trump
+Female,18-34,White,No,California,4-year,Joe Biden
+Female,65+,White,No,Texas,4-year,Donald Trump
+Female,35-54,White,No,Massachusetts,4-year,Joe Biden
+Male,35-54,White,No,Pennsylvania,4-year,Joe Biden
+Female,65+,White,No,Montana,High school graduate,Donald Trump
+Female,35-54,White,No,Pennsylvania,4-year,Donald Trump
+Male,65+,White,No,Nevada,High school graduate,Joe Biden
+Male,65+,White,No,California,4-year,Joe Biden
+Male,65+,White,No,Georgia,4-year,Joe Biden
+Male,65+,White,No,Kentucky,4-year,Donald Trump
+Male,65+,Other,No,Florida,Some college,Donald Trump
+Female,65+,White,No,New Mexico,High school graduate,Donald Trump
+Male,35-54,Black,No,Florida,4-year,Joe Biden
+Male,18-34,White,No,California,High school graduate,Joe Biden
+Female,35-54,Other,No,North Carolina,Some college,Donald Trump
+Female,65+,Two or more races,No,Oregon,Post-grad,Joe Biden
+Female,65+,Middle Eastern,No,Massachusetts,4-year,Joe Biden
+Male,35-54,Hispanic,Yes,Texas,4-year,Joe Biden
+Female,35-54,Hispanic,Yes,South Carolina,Post-grad,Donald Trump
+Female,65+,Hispanic,Yes,California,High school graduate,Donald Trump
+Male,18-34,Other,No,Texas,Some college,Donald Trump
+Female,18-34,Hispanic,Yes,Texas,2-year,Joe Biden
+Female,35-54,Hispanic,Yes,Texas,2-year,Donald Trump
+Female,35-54,Hispanic,Yes,Texas,High school graduate,Joe Biden
+Male,35-54,White,No,Kansas,High school graduate,Donald Trump
+Female,35-54,White,No,Michigan,No HS,Joe Biden
+Female,35-54,Hispanic,Yes,Pennsylvania,High school graduate,Donald Trump
+Female,18-34,White,No,Michigan,High school graduate,Donald Trump
+Female,35-54,White,No,Oklahoma,High school graduate,Joe Biden
+Male,18-34,White,No,Texas,High school graduate,Joe Biden
+Male,35-54,Hispanic,Yes,Florida,High school graduate,Donald Trump
+Male,18-34,White,No,Georgia,High school graduate,Joe Biden
+Female,35-54,White,No,California,High school graduate,Joe Biden
+Male,35-54,White,No,Illinois,High school graduate,Donald Trump
+Female,35-54,White,No,Wisconsin,High school graduate,Joe Biden
+Female,35-54,White,No,South Carolina,High school graduate,Joe Biden
+Female,35-54,White,No,Arizona,High school graduate,Joe Biden
+Male,35-54,White,No,New York,High school graduate,Joe Biden
+Female,35-54,White,No,Oregon,High school graduate,Joe Biden
+Female,35-54,Hispanic,Yes,California,High school graduate,Donald Trump
+Male,18-34,Black,No,Georgia,High school graduate,Joe Biden
+Female,35-54,White,No,Missouri,4-year,Donald Trump
+Male,35-54,White,No,Ohio,High school graduate,Joe Biden
+Male,35-54,White,No,Missouri,Some college,Donald Trump
+Male,35-54,Black,No,Ohio,Some college,Joe Biden
+Male,18-34,White,No,Alabama,Some college,Joe Biden
+Male,35-54,Hispanic,Yes,Pennsylvania,2-year,Joe Biden
+Male,18-34,White,No,Texas,Some college,Joe Biden
+Male,18-34,Hispanic,Yes,Texas,Some college,Joe Biden
+Female,65+,White,No,Tennessee,High school graduate,Donald Trump
+Female,35-54,White,No,New Hampshire,4-year,Joe Biden
+Female,18-34,Black,No,California,2-year,Joe Biden
+Male,18-34,White,No,New York,Post-grad,Donald Trump
+Male,35-54,White,No,New Jersey,Some college,Joe Biden
+Female,18-34,White,No,Kentucky,Post-grad,Joe Biden
+Male,18-34,White,No,Oregon,Post-grad,Joe Biden
+Male,35-54,White,No,Montana,4-year,Joe Biden
+Female,18-34,White,No,Indiana,Post-grad,Donald Trump
+Male,18-34,White,No,Missouri,4-year,Joe Biden
+Male,35-54,White,No,California,4-year,Donald Trump
+Female,35-54,White,No,South Carolina,4-year,Donald Trump
+Female,35-54,Black,No,Indiana,Some college,Joe Biden
+Male,18-34,White,No,California,Post-grad,Joe Biden
+Female,65+,White,No,Illinois,Post-grad,Joe Biden
+Male,65+,White,No,North Carolina,High school graduate,Donald Trump
+Male,35-54,White,No,New Hampshire,4-year,Joe Biden
+Male,65+,Two or more races,No,New York,High school graduate,Joe Biden
+Female,65+,Black,No,Alabama,Post-grad,Joe Biden
+Male,35-54,White,No,Washington,4-year,Joe Biden
+Male,65+,Native American,No,Oregon,Post-grad,Donald Trump
+Female,18-34,Black,No,Illinois,2-year,Donald Trump
+Male,65+,White,No,Tennessee,High school graduate,Donald Trump
+Female,35-54,Black,No,Kentucky,2-year,Donald Trump
+Male,35-54,White,No,Virginia,4-year,Donald Trump
+Male,65+,White,No,Pennsylvania,High school graduate,Donald Trump
+Male,35-54,White,No,Texas,4-year,Joe Biden
+Female,35-54,Black,No,Mississippi,Some college,Joe Biden
+Female,35-54,White,No,Oregon,4-year,Joe Biden
+Female,65+,White,No,Texas,Post-grad,Donald Trump
+Female,18-34,White,No,New York,Post-grad,Joe Biden
+Female,35-54,White,No,Florida,Post-grad,Joe Biden
+Male,65+,White,No,Pennsylvania,Some college,Joe Biden
+Female,35-54,White,No,California,Post-grad,Donald Trump
+Female,35-54,White,No,Ohio,Post-grad,Joe Biden
+Male,35-54,White,No,Florida,Some college,Joe Biden
+Female,65+,White,No,Florida,Post-grad,Joe Biden
+Female,35-54,Black,No,Arkansas,Some college,Joe Biden
+Male,65+,White,No,Nevada,4-year,Donald Trump
+Female,65+,White,No,Arizona,Post-grad,Joe Biden
+Female,18-34,White,No,Georgia,Some college,Joe Biden
+Female,35-54,Two or more races,Yes,Washington,4-year,Donald Trump
+Male,18-34,Hispanic,Yes,Texas,Some college,Joe Biden
+Female,35-54,Black,No,South Carolina,Some college,Joe Biden
+Male,35-54,White,No,Minnesota,2-year,Donald Trump
+Male,18-34,White,No,Georgia,2-year,Donald Trump
+Male,65+,White,No,Oregon,High school graduate,Donald Trump
+Male,35-54,White,No,Illinois,4-year,Donald Trump
+Male,65+,White,No,Pennsylvania,4-year,Joe Biden
+Female,65+,Black,No,Georgia,High school graduate,Joe Biden
+Male,35-54,White,No,California,4-year,Joe Biden
+Female,65+,White,No,Pennsylvania,Post-grad,Joe Biden
+Male,35-54,White,No,Virginia,4-year,Joe Biden
+Female,18-34,Black,No,Florida,High school graduate,Donald Trump
+Female,65+,White,No,New York,Post-grad,Joe Biden
+Female,65+,Black,No,Mississippi,High school graduate,Joe Biden
+Male,65+,White,No,Michigan,High school graduate,Donald Trump
