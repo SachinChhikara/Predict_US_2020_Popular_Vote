@@ -37,21 +37,16 @@ map_education <- function(educ) {
 #variables we are interested in: sex, age, race, hispanic, state, education and
 # who they voted for 2020 election(Trump or Biden)
 
-cleaned_data_survey <-
-  raw_data_survey |>
+cleaned_data_survey <- raw_data_survey |>
   mutate(
     age = year - birthyr,
     age_group = map_age(age),
     education = map_education(educ)
   ) |>
   select(gender, age_group, race, hispanic, inputstate, education, presvote20post) |>
+  rename(state = inputstate) |>
   filter(presvote20post %in% c('Donald Trump', 'Joe Biden')) |>
   tidyr::drop_na()
 
-
-
-
-
-  
   #### Save data ####
 write_csv(cleaned_data_survey, "data/analysis_data/analysis_survey_data.csv")
