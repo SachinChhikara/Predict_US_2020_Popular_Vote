@@ -7,6 +7,7 @@
 # Pre-requisites:
 # Makes sure to download usa_00001.xml and usa_00001.dat into data/raw_data/.
 # For information on how to do this check on the readme file.
+ 
 
 #### Workspace setup ####
 library(tidyverse)
@@ -95,7 +96,13 @@ clean_data_IPMUS <-
   select(SEX, age_group, race, hispanic, STATEICP, education) |>
   rename(gender = SEX, state = STATEICP)
 
+#drops states that are not in survey data to make easier to do the analysis
+survey_data <- read.csv("data/analysis_data/analysis_survey_data.csv")
 
+survey_states <- unique(survey_data$state)
+
+# Filter analysis_data_IPUMS to keep only rows with states present in survey_states
+clean_data_IPMUS <- clean_data_IPMUS[clean_data_IPMUS$state %in% survey_states, ]
 
 
 #### Save data ####
