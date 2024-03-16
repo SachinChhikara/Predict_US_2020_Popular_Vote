@@ -106,4 +106,4 @@ clean_data_IPMUS <- clean_data_IPMUS[clean_data_IPMUS$state %in% survey_states, 
 
 
 #### Save data ####
-write_parquet(clean_data_IPMUS,"data/analysis_data_IPUMS.parquet" )
+write_parquet(clean_data_IPMUS,"data/analysis_data/analysis_data_IPUMS.parquet")
