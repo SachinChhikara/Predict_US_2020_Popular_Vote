@@ -41,11 +41,11 @@ cleaned_data_survey <- raw_data_survey |>
   mutate(
     age = year - birthyr,
     age_group = map_age(age),
-    education = map_education(educ)
+    education = map_education(educ),
+    presvote20 = case_when(presvote20post == 'Donald Trump' ~ 0, presvote20post == 'Joe Biden' ~ 1, )
   ) |>
-  select(gender, age_group, race, hispanic, inputstate, education, presvote20post) |>
+  select(gender, age_group, race, hispanic, inputstate, education, presvote20) |>
   rename(state = inputstate) |>
-  filter(presvote20post %in% c('Donald Trump', 'Joe Biden')) |>
   tidyr::drop_na()
 
   #### Save data ####
